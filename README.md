@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hey there 👋
+```shell
 $ whoami
+```
 <!--
-**wesleyemery/wesleyemery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://github.com/wesleyemery/wesleyemery/blob/main/github-metrics.svg)
+![Metrics](https://github.com/pranavrajtyagi-ab/pranavrajtyagi-ab/blob/main/github-metrics.svg)
 
