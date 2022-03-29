@@ -1634,7 +1634,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.61m out of 87m users</span>
+                                    <span class="gh">ranked 1.61m out of 88m users</span>
                                 </div>
                                 <div class="text">Followed by 5 users</div>
                             </div>
@@ -1706,7 +1706,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 19.7m out of 87m users</span>
+                                    <span class="gh">ranked 19.7m out of 88m users</span>
                                 </div>
                                 <div class="text">Published 1 public repository</div>
                             </div>
@@ -1795,7 +1795,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Mar 2022, 01:16:25 (timezone US/Central) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 29 Mar 2022, 02:17:10 (timezone US/Central) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
