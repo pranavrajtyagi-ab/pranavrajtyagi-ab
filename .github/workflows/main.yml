@@ -9,7 +9,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.17
+      - uses: lowlighter/metrics@v3.24
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -18,7 +18,7 @@ jobs:
           user: pranavrajtyagi-ab
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: US/Central
+          config_timezone: US/Eastern
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
